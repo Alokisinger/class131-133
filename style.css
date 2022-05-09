@@ -1,0 +1,20 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+body{
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(154,186,231,1) 93%, rgba(148,187,233,1) 100%);
+}
+canvas{
+    box-shadow: 10px 10px 10px greenyellow;
+    border-radius: 10px ;
+    margin-top: 30px;
+}
